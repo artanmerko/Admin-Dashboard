@@ -179,7 +179,7 @@ section h3 {
 #projects {
   flex: 3;
 }
-section .projects img{
+section .projects img,section .projects iframe{
   width: 400px;
   height: 250px;
 }
